@@ -1,9 +1,12 @@
 {
-  "name": "docker_nodejs",
-
+  "name": "nodejs_example",
   "version": "1.0.0",
-
+  "description": "Простое Node.js приложение",
+  "main": "server.js",
   "scripts": {
-    "start": "echo 'Hello, world!'"
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "http": "^0.0.1"
   }
 }
