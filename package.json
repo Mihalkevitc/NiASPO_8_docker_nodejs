@@ -1,0 +1,9 @@
+{
+  "name": "docker_nodejs",
+
+  "version": "1.0.0",
+
+  "scripts": {
+    "start": "echo 'Hello, world!'"
+  }
+}
